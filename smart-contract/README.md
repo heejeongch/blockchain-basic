@@ -7,5 +7,6 @@
 - Solidity 프로그래밍 언어 소개
 
 ## Assignments
-- Remix IDE에서 간단한 스마트 계약 작성
-- 이더리움 테스트넷에서 스마트 계약 배포
+- Solidity를 사용해 스마트 계약 작성 하기
+  - 후보 등록, 투표, 투표 결과 계산 기능 포함하기
+  - Remix IDE를 사용해 Rinkeby 또는 Goerli 테스트넷에 배포
