@@ -8,6 +8,7 @@
   - Proof of Stake (PoS)
   - Delegated Proof of Stake (DPoS)
   - Practical Byzantine Fault Tolerance (PBFT)
+  - Proof of Authority(PoA)
 - 합의 알고리즘 비교와 장단점
 
 ## Assignments
